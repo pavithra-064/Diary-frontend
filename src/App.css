@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap");
+body {
+  /* background: rgb(52,2,16);
+background: linear-gradient(80deg, rgba(52,2,16,1) 0%, rgba(77,14,17,1) 51%, rgba(56,6,18,1) 100%); */
+  font-family: "DM Sans", sans-serif;
+  background-color: #273042;
+}
